@@ -1,7 +1,7 @@
 # Contexte
 Ce projet a été réalisé dans le cadre du parcours de [formation de Data Scientist](https://openclassrooms.com/fr/paths/164-data-scientist) d'OpenClassrooms.
 
-# Pitch du projet 3
+# Pitch du projet
 L'agence "Santé publique France" a lancé un appel à projet autour des problématiques alimentaires. Vous proposerez une application basée sur des données nutritionnelles.
 
 # Mission
